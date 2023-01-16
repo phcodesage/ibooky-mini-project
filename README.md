@@ -1,4 +1,4 @@
-# BOOKING_HOTEL
+# iBooky
 A Complete (Full Stack) MERN BOOKING Project
 ### [Dream Hotel Booking](https://dreambooking.netlify.app)
 

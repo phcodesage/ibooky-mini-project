@@ -21,7 +21,7 @@ const Footer = () => {
                   Lorem ipsum dolor sit, amet consectetur <br /> adipisicing
                   elit. Quae, velit.
                 </p>
-                <p>Dhaka,Bangladesh</p>
+                <p>Davao, Phillippines</p>
               </div>
             </Col>
 
