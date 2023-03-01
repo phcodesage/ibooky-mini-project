@@ -1,6 +1,6 @@
 # iBooky
 A Complete (Full Stack) MERN BOOKING Project
-### [Dream Hotel Booking](https://dreambooking.netlify.app)
+### [iBooky](https://ibooky-mini-project.vercel.app/)
 
 ###
 

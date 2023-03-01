@@ -53,7 +53,7 @@ const Footer = () => {
               </div>
             </Col>
             <div className="fText">
-              Copyright &copy; {new Date().getFullYear()} Dream Booking. All
+              Copyright &copy; {new Date().getFullYear()} iBooky Booking. All
               rights reserved.
             </div>
           </Row>
