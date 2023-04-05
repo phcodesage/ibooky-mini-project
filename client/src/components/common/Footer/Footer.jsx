@@ -18,8 +18,7 @@ const Footer = () => {
               />
               <div className="first-part-of-footer">
                 <p>
-                  Lorem ipsum dolor sit, amet consectetur <br /> adipisicing
-                  elit. Quae, velit.
+                iBooky is a MERN (MongoDB, Express, React, Node.js) app that allows users to book various services such as hotels, flights, and rental cars. This app has a user-friendly interface that allows users to search for services based on their preferences, budget, and location.
                 </p>
                 <p>Davao, Phillippines</p>
               </div>

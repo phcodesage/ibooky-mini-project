@@ -45,7 +45,7 @@ const AllHotels = () => {
         <div className="head-content">
           <h1>
             {" "}
-            HOTELES BY{" "}
+            HOTELS BY{" "}
             <span style={{ color: "#fe5d5d" }}>{name.toUpperCase()}</span>
           </h1>
           <img

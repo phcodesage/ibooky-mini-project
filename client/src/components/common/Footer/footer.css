@@ -30,9 +30,10 @@
 }
 
 .first-part-of-footer p {
-    font-size: 17px;
+    font-size: 15px;
     line-height: 28px;
     font-family: system-ui;
+    padding: 0 50px;
 }
 
 .fText {
