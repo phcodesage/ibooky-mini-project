@@ -1,6 +1,6 @@
-import express from "express";
 import dotenv from "dotenv";
 dotenv.config();
+import express from "express";
 import mongoose from "mongoose";
 import HotelRoutes from './routes/hotelsRoutes.js';
 import RoomRoutes from './routes/roomsRoutes.js';

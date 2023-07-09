@@ -4,7 +4,7 @@ A Complete (Full Stack) MERN BOOKING Project
 
 ###
 
-<img src="https://res.cloudinary.com/dzghsspe7/image/upload/v1662156277/booking/jbmnvzggbu9orngvbx0r.png" alt="Moto-Repair" border="0" />
+### Kodego Project
 
 ### About This Site:
 
